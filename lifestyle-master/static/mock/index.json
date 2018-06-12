@@ -1,0 +1,145 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl":
+          "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1528451677336&di=b5d7e8162cd5ba3e14b4003613c282d4&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01401555442c2b0000019ae90a68af.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl":
+          "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1528451753737&di=afde3d68efc69a611b9f28eb42c62678&imgtype=0&src=http%3A%2F%2Fpic1.cxtuku.com%2F00%2F10%2F42%2Fb0146fa43f89.jpg"
+      },
+      {
+        "id": "0003",
+        "imgUrl":
+          "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1528451802817&di=48358c5dee5f278f4ab49acd76679e2f&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F010d01579346060000018c1bf79d66.jpg%402o.jpg"
+      },
+      {
+        "id": "0004",
+        "imgUrl":
+          "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1528451753735&di=7fdf85416ec5e3bdee067aeff7f4e4d3&imgtype=0&src=http%3A%2F%2Fbpic.ooopic.com%2F15%2F91%2F40%2F15914070-b2a6a55b693afda218ba8327304b4f8d-0.jpg"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "0001",
+        "imgUrl":
+          "https://goss3.vcg.com/creative/vcg/400/new/VCG41N923498008.jpg",
+        "desc": "热门景点"
+      },
+      {
+        "id": "0002",
+        "imgUrl":
+          "https://goss2.vcg.com/creative/vcg/400/new/VCG41N923497818.jpg",
+        "desc": "电影/演出"
+      },
+      {
+        "id": "0003",
+        "imgUrl":
+          "https://goss1.vcg.com/creative/vcg/400/new/VCG41N923497738.jpg",
+        "desc": "酒店住宿"
+      },
+      {
+        "id": "0004",
+        "imgUrl":
+          "https://goss3.vcg.com/creative/vcg/400/new/VCG41N923501972.jpg",
+        "desc": "休闲娱乐"
+      },
+      {
+        "id": "0005",
+        "imgUrl":
+          "https://goss2.vcg.com/creative/vcg/400/new/VCG41N923501698.jpg",
+        "desc": "游乐园"
+      },
+      {
+        "id": "0006",
+        "imgUrl":
+          "https://goss3.vcg.com/creative/vcg/400/new/VCG41N923501922.jpg",
+        "desc": "必游榜单"
+      },
+      {
+        "id": "0007",
+        "imgUrl":
+          "https://goss2.vcg.com/creative/vcg/400/new/VCG41N923501640.jpg",
+        "desc": "一日游"
+      },
+      {
+        "id": "0008",
+        "imgUrl":
+          "https://goss1.vcg.com/creative/vcg/400/new/VCG41N923498014.jpg",
+        "desc": "城市观光"
+      },
+      {
+        "id": "0009",
+        "imgUrl":
+          "https://goss1.vcg.com/creative/vcg/400/new/VCG41N923501654.jpg",
+        "desc": "观光"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "0001",
+        "imgUrl":
+          "https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=274d02b1f3d3572c72ef948eeb7a0842/77c6a7efce1b9d16d066cf39f2deb48f8d5464c0.jpg",
+        "title": "圣维塔大教堂",
+        "desc":
+          "圣维塔大教堂（Katedrala sv. Vita）位于维而塔瓦河西岸的布拉格城堡内，是布拉格城堡最重要的地标之一"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://h2.bytravel.cn/www/5/head/5188.gif",
+        "title": "富士山",
+        "desc": "富士山是日本第一高峰，是日本民族的象征，被日本人民誉为“圣岳”。"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://h2.bytravel.cn/www/2/head/2186.gif",
+        "title": "八达岭古长城",
+        "desc":
+          "八达岭长城座落于北京市延庆区境内，蜿蜒腾跃于燕山山脉的崇山峻岭，是万里长城千百座名关险隘中，历史最为悠久、文化最为丰富、建筑最为宏伟、景色最为壮观、名声最为远大、保存最为完整的一段。"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://h2.bytravel.cn/www/2/head/2189.gif",
+        "title": "天坛公园",
+        "desc": "天坛在北京市东南部，崇文区永定门内大街东侧。"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://h2.bytravel.cn/www/16/head/15715.gif",
+        "title": "满月岛",
+        "desc":
+          "满月岛是喜来登品牌在马代的旗舰岛，也是中国人最熟悉的五星度假岛。"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "0001",
+        "imgUrl":
+          "https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=195fc5b79eeef01f591910978197f240/b64543a98226cffcb3c7c361b3014a90f703ea70.jpg",
+        "title": "一生必看的经典电影",
+        "desc":
+          "想要追求视觉的冲击感和心灵的震撼感？这里推荐一些必看的电影，关于人生、才华、责任感等等"
+      },
+      {
+        "id": "0002",
+        "imgUrl":
+          "http://t11.baidu.com/it/u=3798282562,3404865297&fm=173&s=F1085930158F48EA1A7C20DD010080B1&w=640&h=361&img.JPEG",
+        "title": "一年看了50本书，我只推荐这13本",
+        "desc":
+          "人不可貌相，书的名字，也不可貌相。如果你因为一本书的名字，错过它，是书的遗憾"
+      },
+      {
+        "id": "0003",
+        "imgUrl":
+          "http://n1.itc.cn/img8/wb/recom/2016/07/18/146884961302483128.JPEG",
+        "title": "亚洲十大景点出炉，你去过哪里？",
+        "desc":
+          "知名旅游指南《孤独星球》公布了2018年亚洲十大景点。其中，中国有三地入选，是榜单上最多的国家"
+      }
+    ]
+  }
+}
